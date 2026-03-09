@@ -3,12 +3,14 @@ Currently a highschool computer science student, aspiring systems engineer, real
 
 
 # 💻 Tech Stack:
+Primary tools :
+
+
 Primary/strong skills :  
-[![StrongSKills](https://skillicons.dev/icons?i=py,js,css,html&theme=dark)](https://skillicons.dev)
+[![StrongSkills](https://skillicons.dev/icons?i=py,js,css,html&theme=dark)](https://skillicons.dev)
  
 Learning :  
- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+[![Learning](https://skillicons.dev/icons?i=rust,sqlite&theme=dark)](https://skillicons.dev) 
 
  Familiar/Used at least once :  
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
