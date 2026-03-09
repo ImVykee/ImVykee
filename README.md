@@ -3,23 +3,17 @@ Currently a highschool computer science student, aspiring systems engineer, real
 
 
 # 💻 Tech Stack:
-Primary tools :  
-OS :  
-[![OS](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)  
-Editor :  
-[![Editor](https://skillicons.dev/icons?i=neovim,vim&theme=dark)](https://skillicons.dev)
+**Primary:**  
+![](https://skillicons.dev/icons?i=py,js,html,css,sqlite)
 
-Primary/strong skills :  
-[![StrongSkills](https://skillicons.dev/icons?i=py,js,css,html&theme=dark)](https://skillicons.dev)
- 
-Learning :  
-[![Learning](https://skillicons.dev/icons?i=rust,sqlite&theme=dark)](https://skillicons.dev) 
+**Learning:**  
+![](https://skillicons.dev/icons?i=rust)
 
- Familiar/Used at least once :  
-[![Familiar](https://skillicons.dev/icons?i=cs,java,git,github&theme=dark)](https://skillicons.dev)
+**Tools:**  
+![](https://skillicons.dev/icons?i=neovim,git,github,linux)
 
- On the roadmap :  
-[![Roadmap](https://skillicons.dev/icons?i=c,haskell,bash,svelte&theme=dark)](https://skillicons.dev) 
+**Familiar:**  
+![](https://skillicons.dev/icons?i=cs,java,flask)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ImVykee&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
