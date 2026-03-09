@@ -13,12 +13,10 @@ Learning :
 [![Learning](https://skillicons.dev/icons?i=rust,sqlite&theme=dark)](https://skillicons.dev) 
 
  Familiar/Used at least once :  
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+[![Familiar](https://skillicons.dev/icons?i=cs,git,github&theme=dark)](https://skillicons.dev)
 
  On the roadmap :  
- ![C](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png)
+[![Roadmap](https://skillicons.dev/icons?i=c,haskell&theme=dark)](https://skillicons.dev) 
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ImVykee&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
