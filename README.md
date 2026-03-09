@@ -3,9 +3,11 @@ Currently a highschool computer science student, aspiring systems engineer, real
 
 
 # 💻 Tech Stack:
-Primary tools :
-OS : [![OS](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)  
-Editor : [![Editor](https://skillicons.dev/icons?i=neovim,vim&theme=dark)](https://skillicons.dev)
+Primary tools :  
+OS :  
+[![OS](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)  
+Editor :  
+[![Editor](https://skillicons.dev/icons?i=neovim,vim&theme=dark)](https://skillicons.dev)
 
 Primary/strong skills :  
 [![StrongSkills](https://skillicons.dev/icons?i=py,js,css,html&theme=dark)](https://skillicons.dev)
