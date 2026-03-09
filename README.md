@@ -13,4 +13,4 @@ Currently a highschool computer science student, aspiring systems engineer, real
 ![](https://skillicons.dev/icons?i=neovim,git,github,linux)
 
 **Familiar:**  
-![](https://skillicons.dev/icons?i=cs,java,flask)
+![](https://skillicons.dev/icons?i=cs,godot,java,flask)
