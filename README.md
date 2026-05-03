@@ -7,7 +7,7 @@ Currently a highschool computer science student, aspiring systems engineer, real
 ![](https://skillicons.dev/icons?i=py,js,html,css,sqlite)
 
 **Learning:**  
-![](https://skillicons.dev/icons?i=rust)
+![](https://skillicons.dev/icons?i=rust,ocaml)
 
 **Tools:**  
 ![](https://skillicons.dev/icons?i=neovim,git,github,linux)
