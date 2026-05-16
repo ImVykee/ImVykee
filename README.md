@@ -1,13 +1,12 @@
 # 💫 About Me:
-Currently a highschool computer science student, aspiring systems engineer, really just interested in anything coding related
-
+Currently a highschool computer science student, aspiring systems engineer, interested in anything coding related
 
 # 💻 Tech Stack:
 **Primary:**  
-![](https://skillicons.dev/icons?i=py,js,html,css,sqlite)
+![](https://skillicons.dev/icons?i=py,rust,js,sqlite)
 
 **Learning:**  
-![](https://skillicons.dev/icons?i=rust,ocaml)
+![](https://skillicons.dev/icons?i=ocaml)
 
 **Tools:**  
 ![](https://skillicons.dev/icons?i=neovim,git,github,linux)
