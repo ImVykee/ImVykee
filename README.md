@@ -12,4 +12,4 @@ Currently a highschool computer science student, aspiring systems engineer and i
 ![](https://skillicons.dev/icons?i=neovim,git,linux)
 
 **Familiar:**  
-![](https://skillicons.dev/icons?i=cs,godot,flask)
+![](https://skillicons.dev/icons?i=cs,godot,flask,lua)
