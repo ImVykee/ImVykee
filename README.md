@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a highschool computer science student, aspiring systems engineer and interested in systems engineering and language theory
+Currently a highschool computer science student, interested in systems engineering and language theory
 
 # 💻 Tech Stack:
 **Primary:**  
