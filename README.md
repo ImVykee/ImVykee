@@ -9,7 +9,7 @@ Currently a student doing a bachelors in computer science, interested in systems
 ![](https://skillicons.dev/icons?i=ocaml,java)
 
 **Environment:**  
-![](https://skillicons.dev/icons?i=neovim,git,nixos)
+![](https://skillicons.dev/icons?i=neovim,git,linux,nix)
 
 **Familiar:**  
 ![](https://skillicons.dev/icons?i=cs,godot,flask,lua)
