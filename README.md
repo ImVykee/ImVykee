@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a highschool computer science student, interested in systems engineering and language theory
+Currently a student doing a bachelors in computer science, interested in systems engineering and language theory
 
 # 💻 Tech Stack:
 **Primary:**  
@@ -9,7 +9,7 @@ Currently a highschool computer science student, interested in systems engineeri
 ![](https://skillicons.dev/icons?i=ocaml,java)
 
 **Environment:**  
-![](https://skillicons.dev/icons?i=neovim,git,linux,nixos)
+![](https://skillicons.dev/icons?i=neovim,git,nixos)
 
 **Familiar:**  
 ![](https://skillicons.dev/icons?i=cs,godot,flask,lua)
