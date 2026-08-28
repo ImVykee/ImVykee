@@ -6,7 +6,7 @@ Currently a student doing a bachelors in computer science, interested in systems
 ![](https://skillicons.dev/icons?i=py,rust,js,sqlite)
 
 **Learning:**  
-![](https://skillicons.dev/icons?i=java,c,cpp)
+![](https://skillicons.dev/icons?i=java)
 
 **Environment:**  
 ![](https://skillicons.dev/icons?i=neovim,git,linux,nix)
